@@ -1,0 +1,15 @@
+{
+    "appId": "com.and.calvar",
+    "appName": "Calvar",
+    "webDir": "public",
+    "bundledWebRuntime": true,
+    "plugins": {
+        "SplashScreen": {
+            "launchAutoHide": false,
+            "androidScaleType": "CENTER_CROP",
+            "splashFullScreen": true,
+            "splashImmersive": false,
+            "backgroundColor": "#ffffff"
+        }
+    }
+}
